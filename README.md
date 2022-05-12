@@ -1,2 +1,2 @@
 # Simon-Game
-The popular "Simon Says" game
+The popular "Simon Says" game (pc)
